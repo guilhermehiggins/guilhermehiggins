@@ -2,11 +2,9 @@
 
 ##
 
-Sou um funcionário público que está estudando para deixar essa vida para trás e atuar na área de desenvolvimento.
+Focado em me tornar um Desenvolvedor Full Stack!
 
-Tenho como objetivo me tornar um Desenvolvedor FullStack!
-
-Estudando atualmente Bootstrap / JS.
+Atualmente estudando JS no curso [Desenvolvimento Web Completo 2022](https://www.udemy.com/course/web-completo/).
 
 ##
 
